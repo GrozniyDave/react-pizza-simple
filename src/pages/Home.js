@@ -55,10 +55,10 @@ const Home = () => {
       </div>
       <h2 className="content__title">
         All pizzas
-        <p>
+        {/* <p>
           At the moment ONLY traditional dough is available for our pizzas,
           sorry for inconvenience!
-        </p>
+        </p> */}
       </h2>
 
       <div className="content__items">
